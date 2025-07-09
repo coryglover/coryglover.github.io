@@ -1,1 +1,2 @@
-# coryglover.github.io
+# Cory Glover
+### Network Scientist, Mathematician, Scanner
