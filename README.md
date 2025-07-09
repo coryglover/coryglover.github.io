@@ -1,2 +1,2 @@
 # Cory Glover
-### Network Scientist, Mathematician, Scanner
+### Network Scientist, Mathematician
