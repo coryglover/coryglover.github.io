@@ -16,13 +16,23 @@
         <div class="wrapper">
             <header>
                 <!-- Site Title -->
-                <h1 style="font-size: 3rem;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+                <h1 style="font-size: 3rem; white-space: nowrap;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
                 <!-- Picture -->
-                <img src="/pictures/Cory.jpeg" alt="Your Image" style="width: 500px; border-radius: 10px; margin: 10px 0;">
+                <img src="/pictures/Cory.jpeg" alt="Your Image" style="width: 400px; border-radius: 10px; margin: 10px 0;">
 
-                <!-- Site Description -->
-                <p style="font-size: 1rem;">{{ site.description }}</p>
+                <!-- Social Media Icons -->
+                <div style="margin-top: 10px;">
+                    <a href="https://bsky.app/profile/cory-glover.bsky.social" target="_blank" style="margin-right: 10px;">
+                        <img src="/assets/icons/bluesky-logo.jpg" alt="bksy" style="width: 30px; height: 30px;">
+                    </a>
+                    <a href="www.linkedin.com/in/cory-glover-79228a133" target="_blank" style="margin-right: 10px;">
+                        <img src="/assets/icons/linkedin-logo.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+                    </a>
+                    <a href="https://scholar.google.com/citations?user=2X8Ldv4AAAAJ&hl=en" target="_blank">
+                        <img src="/assets/icons/google-logo.png" alt="Google Scholar" style="width: 30px; height: 30px;">
+                    </a>
+                </div>
             </header>
             <section>
                 {{ content }}
