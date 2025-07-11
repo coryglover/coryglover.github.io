@@ -14,15 +14,15 @@
     </head>
     <body>
         <div class="wrapper">
+            <!-- Navigation Bar -->
+            <nav style="background-color: #f4f4f4; padding: 10px; display: flex; justify-content: center; gap: 20px; border-bottom: 1px solid #ddd;">
+                <a href="/" style="text-decoration: none; color: black; font-weight: 500;">Home</a>
+                <a href="/about" style="text-decoration: none; color: black; font-weight: 500;">About</a>
+                <a href="/projects" style="text-decoration: none; color: black; font-weight: 500;">Projects</a>
+                <a href="/papers" style="text-decoration: none; color: black; font-weight: 500;">Papers</a>
+                <a href="/contact" style="text-decoration: none; color: black; font-weight: 500;">Contact</a>
+            </nav>
             <header>
-                <!-- Navigation Bar -->
-                <nav style="background-color: #f4f4f4; padding: 10px; display: flex; justify-content: center; gap: 20px; border-bottom: 1px solid #ddd;">
-                    <a href="/" style="text-decoration: none; color: black; font-weight: 500;">Home</a>
-                    <a href="/about" style="text-decoration: none; color: black; font-weight: 500;">About</a>
-                    <a href="/projects" style="text-decoration: none; color: black; font-weight: 500;">Projects</a>
-                    <a href="/papers" style="text-decoration: none; color: black; font-weight: 500;">Papers</a>
-                    <a href="/contact" style="text-decoration: none; color: black; font-weight: 500;">Contact</a>
-                </nav>
                 <!-- Site Title -->
                 <h1 style="font-size: 2rem; font-weight: 300; margin: 0; color: black; text-align: left;">
                     {{ site.title | default: site.github.repository_name }}
