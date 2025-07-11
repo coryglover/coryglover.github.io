@@ -22,34 +22,42 @@
                 <a href="/papers" style="text-decoration: none; color: black; font-weight: 500;">Papers</a>
                 <a href="/contact" style="text-decoration: none; color: black; font-weight: 500;">Contact</a>
             </nav>
-            <header>
-                <!-- Site Title -->
-                <h1 style="font-size: 2rem; font-weight: 300; margin: 0; color: black; text-align: left;">
-                    {{ site.title | default: site.github.repository_name }}
-                </h1>
-            
-                <!-- Picture and Icons -->
-                <div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 10px;">
-                    <!-- Picture -->
-                    <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 200px; border-radius: 10px;">
-            
-                    <!-- Social Media Icons -->
-                    <div style="margin-top: 10px; display: flex; justify-content: center; gap: 10px; width: 200px;">
-                        <a href="https://bsky.app/profile/cory-glover.bsky.social" target="_blank">
-                            <img src="/assets/icons/bluesky-logo.png" alt="bksy" style="width: 30px; height: 30px;">
-                        </a>
-                        <a href="https://www.linkedin.com/in/cory-glover-79228a133" target="_blank">
-                            <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
-                        </a>
-                        <a href="https://scholar.google.com/citations?user=2X8Ldv4AAAAJ&hl=en" target="_blank">
-                            <img src="/assets/icons/google.png" alt="Google Scholar" style="width: 30px; height: 30px;">
-                        </a>
+            <main style="display: flex; gap: 20px; max-width: 1000px; margin: 0 auto;">
+                <!-- Left Block: Title, Picture, and Icons -->
+                <div style="flex: 1; max-width: 300px;">
+                    <!-- Site Title -->
+                    <h1 style="font-size: 2rem; font-weight: 300; margin: 0; color: black; text-align: left;">
+                        {{ site.title | default: site.github.repository_name }}
+                    </h1>
+                
+                    <!-- Picture and Icons -->
+                    <div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 10px;">
+                        <!-- Picture -->
+                        <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 100%; border-radius: 10px;">
+                
+                        <!-- Social Media Icons -->
+                        <div style="margin-top: 10px; display: flex; justify-content: flex-start; gap: 10px;">
+                            <a href="https://bsky.app/profile/cory-glover.bsky.social" target="_blank">
+                                <img src="/assets/icons/bluesky-logo.png" alt="bksy" style="width: 30px; height: 30px;">
+                            </a>
+                            <a href="https://www.linkedin.com/in/cory-glover-79228a133" target="_blank">
+                                <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+                            </a>
+                            <a href="https://scholar.google.com/citations?user=2X8Ldv4AAAAJ&hl=en" target="_blank">
+                                <img src="/assets/icons/google.png" alt="Google Scholar" style="width: 30px; height: 30px;">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </header>
-            <section style="max-width: 1000px; margin: 0 auto;">
-                {{ content }}
-            </section>
+
+                <!-- Right Block: Content -->
+                <div style="flex: 2;">
+                    <section>
+                        {{ content }}
+                    </section>
+                </div>
+            </main>
+        
             <footer>
                 {% if site.github.is_project_page %}
                 <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
