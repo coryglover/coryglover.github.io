@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -13,24 +13,33 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <!-- Add your image here -->
-        <img src="pictures/Cory.jpeg" alt="Your Image" style="width: 25%; margin-right: 20px;">
+    <div class="wrapper" style="display: flex;">
 
-      </header>
-      <section>
+      <!-- Sidebar Section -->
+      <aside style="width: 25%; padding: 20px; background-color: #f4f4f4; height: 100vh; box-sizing: border-box;">
+        <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 100%; border-radius: 10px;">
+        <h2>About Me</h2>
+        <p>Hi, I'm Cory Glover, a scientist passionate about solving problems with math.</p>
+      </aside>
 
-      {{ content }}
+      <!-- Main Content Section -->
+      <main style="flex: 1; padding: 20px;">
+        <header>
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        </header>
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+        <section>
+          {{ content }}
+        </section>
+
+        <footer>
+          {% if site.github.is_project_page %}
+          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          {% endif %}
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </footer>
+      </main>
+
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
