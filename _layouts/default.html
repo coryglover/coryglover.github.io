@@ -14,24 +14,27 @@
     </head>
     <body>
         <div class="wrapper">
-            <header style="text-align: center;">
-                <!-- Site Title -->
-                <h1 style="font-size: 2rem; white-space: nowrap; color: black;">
-                    <a href="{{ "/" | absolute_url }}" style="color: black; text-decoration: none;">
-                        {{ site.title | default: site.github.repository_name }}
-                    </a>
-                </h1>
+            <header style="text-align: left;">
+                <!-- Site Title and Picture -->
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <!-- Picture -->
+                    <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 100px; border-radius: 10px;">
             
-                <!-- Picture -->
-                <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 200px; border-radius: 10px; margin: 10px auto; display: block;">
+                    <!-- Title -->
+                    <h1 style="font-size: 2rem; font-weight: 300; margin: 0; color: black;">
+                        <a href="{{ "/" | absolute_url }}" style="color: black; text-decoration: none;">
+                            {{ site.title | default: site.github.repository_name }}
+                        </a>
+                    </h1>
+                </div>
             
                 <!-- Social Media Icons -->
-                <div style="margin-top: 10px; display: flex; justify-content: center; align-items: center; gap: 10px;">
+                <div style="margin-top: 10px; text-align: center;">
                     <a href="https://bsky.app/profile/cory-glover.bsky.social" target="_blank">
-                        <img src="/assets/icons/bluesky-logo.png" alt="bksy" style="width: 30px; height: 30px;">
+                        <img src="/assets/icons/bluesky-logo.png" alt="bksy" style="width: 30px; height: 30px; margin-right: 10px;">
                     </a>
                     <a href="https://www.linkedin.com/in/cory-glover-79228a133" target="_blank">
-                        <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+                        <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
                     </a>
                     <a href="https://scholar.google.com/citations?user=2X8Ldv4AAAAJ&hl=en" target="_blank">
                         <img src="/assets/icons/google.png" alt="Google Scholar" style="width: 30px; height: 30px;">
