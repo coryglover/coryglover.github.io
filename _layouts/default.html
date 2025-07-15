@@ -27,33 +27,33 @@
                 {% if page.show_picture != false %}
                 <div style="flex: 1; max-width: 300px;">
                     <!-- Site Title -->
-                    
-                
-                    <!-- Picture and Icons -->
-                    <div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 10px;">
-                        <!-- Picture -->
-                        <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 90%; border-radius: 10px;">
-                
-                        <!-- Social Media Icons -->
-                        <div style="margin-top: 10px; display: flex; justify-content: flex-start; gap: 10px;">
-                            <a href="https://bsky.app/profile/cory-glover.bsky.social" target="_blank">
-                                <img src="/assets/icons/bluesky-logo.png" alt="bksy" style="width: 30px; height: 30px;">
-                            </a>
-                            <a href="https://www.linkedin.com/in/cory-glover-79228a133" target="_blank">
-                                <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
-                            </a>
-                            <a href="https://scholar.google.com/citations?user=2X8Ldv4AAAAJ&hl=en" target="_blank">
-                                <img src="/assets/icons/google.png" alt="Google Scholar" style="width: 30px; height: 30px;">
-                            </a>
-                            <a href="/assets/documents/Glover, Cory CV.pdf" target="_blank">
-                                <img src="/assets/icons/cv-icon.png" alt="Download CV" style="width: 30px; height: 30px;">
-                            </a>
-                        </div>
+                    <h1 style="font-size: 2rem; font-weight: 300; margin: 0 0 10px 0; color: black;">
+                        {{ site.title | default: site.github.repository_name }}
+                    </h1>
+
+                    <!-- Picture -->
+                    <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 90%; border-radius: 10px;">
+
+                    <!-- Social Media Icons -->
+                    <div style="margin-top: 10px; display: flex; justify-content: flex-start; gap: 10px;">
+                        <a href="https://bsky.app/profile/cory-glover.bsky.social" target="_blank">
+                            <img src="/assets/icons/bluesky-logo.png" alt="bksy" style="width: 30px; height: 30px;">
+                        </a>
+                        <a href="https://www.linkedin.com/in/cory-glover-79228a133" target="_blank">
+                            <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+                        </a>
+                        <a href="https://scholar.google.com/citations?user=2X8Ldv4AAAAJ&hl=en" target="_blank">
+                            <img src="/assets/icons/google.png" alt="Google Scholar" style="width: 30px; height: 30px;">
+                        </a>
+                        <a href="/assets/documents/Glover, Cory CV.pdf" target="_blank">
+                            <img src="/assets/icons/cv-icon.png" alt="Download CV" style="width: 30px; height: 30px;">
+                        </a>
                     </div>
                 </div>
                 {% endif %}
+
                 <!-- Right Block: Content -->
-                <div style="flex: {% if page.show_picture != false %}2{% else %}1{% endif %};">
+                <div style="flex: 1; {% if page.show_picture == false %}max-width: 100%;{% else %}max-width: 700px;{% endif %}">
                     <section style="font-size: 1rem;">
                         {{ content }}
                     </section>
