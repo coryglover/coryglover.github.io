@@ -53,19 +53,11 @@
                 {% endif %}
 
                 <!-- Right Block: Content -->
-                {% if page.show_picture != false %}
-                <div style="flex: 1;">
+                <div style="flex: {% if page.show_picture == false %}1{% else %}2{% endif %};">
                     <section style="font-size: 1rem;">
                         {{ content }}
                     </section>
                 </div>
-                {% else %}
-                <div style="flex: 3;">
-                    <section style="font-size: 1rem;">
-                        {{ content }}
-                    </section>
-                </div>
-                {% endif %}
             </main>
         
             <footer>
