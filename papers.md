@@ -2,6 +2,7 @@
 layout: default
 title: Papers
 permalink: /papers/
+show_picture: false
 ---
 
 # Papers
