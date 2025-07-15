@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
   <!-- Left Block: Picture and Icons -->
