@@ -50,15 +50,17 @@
                         </a>
                     </div>
                 </div>
+                {% endif %}
 
                 <!-- Right Block: Content -->
-                <div style="flex: 2;">
+                {% if page.show_picture != false %}
+                <div style="flex: 1;">
                     <section style="font-size: 1rem;">
                         {{ content }}
                     </section>
                 </div>
                 {% else %}
-                <div style="flex: 1; max-width: 1000px;">
+                <div style="flex: 3;">
                     <section style="font-size: 1rem;">
                         {{ content }}
                     </section>
