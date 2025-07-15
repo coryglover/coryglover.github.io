@@ -6,14 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         {% seo %}
-        <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-        <!--[if lt IE 9]>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-        <![endif]-->
-        {% include head-custom.html %}
+        <!-- No external stylesheet -->
     </head>
-    <body>
-        <div class="wrapper" style="width: 100%; margin: 0 auto; padding: 0 20px;">
+    <body style="margin: 0; padding: 0; font-family: Arial, sans-serif; line-height: 1.6;">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
             <!-- Navigation Bar -->
             <nav style="background-color: #f4f4f4; padding: 10px; display: flex; justify-content: center; gap: 20px; border-bottom: 1px solid #ddd; margin-bottom: 20px;">
                 <a href="/" style="text-decoration: none; color: black; font-weight: 500;">Home</a>
@@ -24,7 +20,7 @@
             </nav>
 
             <!-- Main Content -->
-            <main style="max-width: 100%; margin: 0 auto; padding: 0px; text-align: center;">
+            <main style="max-width: 800px; margin: 0 auto; padding: 20px; text-align: left; background-color: #fff;">
                 <section style="font-size: 1rem;">
                     {{ content }}
                 </section>
@@ -38,6 +34,5 @@
                 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
             </footer>
         </div>
-        <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     </body>
 </html>
