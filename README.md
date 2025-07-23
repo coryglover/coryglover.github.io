@@ -21,7 +21,7 @@
   </div>
 
   <!-- Right Block: Text Content -->
-  <div style="flex: 2;">
+  <div style="flex: 2; background-color: #e0e0e0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h2 style="margin: 0px 0;">Cory Glover, M.S.</h2>
     <h3 style="margin: 5px 0;">
       Network Scientist <span style="font-size: 1.5em; vertical-align: middle;">&#8226;</span> Mathematician <span style="font-size: 1.5em; vertical-align: middle;">&#8226;</span> Data Scientist
