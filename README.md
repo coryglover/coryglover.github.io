@@ -1,4 +1,4 @@
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: flex; gap: 0px; align-items: flex-start;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 300px;">
