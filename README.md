@@ -22,6 +22,7 @@
 
   <!-- Right Block: Text Content -->
   <div style="flex: 2;">
+    <h2>Cory Glover, M.S.</h2>
     <p>
       I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study complex systems with a focus on how local interactions give rise to large-scale patterns in data. I'm passionate about interdisciplinary research and am currently seeking postdoctoral opportunities to continue exploring complex systems through new lenses.
     </p>
