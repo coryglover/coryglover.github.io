@@ -23,7 +23,7 @@
   <!-- Right Block: Text Content -->
   <div style="flex: 2;">
     <h2 style="margin: 0px 0;">Cory Glover, M.S.</h2>
-    <h3 style="margin: 5px 0;">Network Scientist <span style="font-size: 2em;">&#8226; Mathematician <span style="font-size: 2em;">&#8226; Data Scientist</h3>
+    <h3 style="margin: 5px 0;">Network Scientist <span style="font-size: 2em;">&#8226; <span style="font-size: 1em;">Mathematician <span style="font-size: 2em;">&#8226; <span style="font-size: 1em;">Data Scientist</h3>
     <p>
       I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study complex systems with a focus on how local interactions give rise to large-scale patterns in data. I'm passionate about interdisciplinary research and am currently seeking postdoctoral opportunities to continue exploring complex systems through new lenses.
     </p>
