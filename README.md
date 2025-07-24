@@ -5,7 +5,7 @@
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
   <!-- Left Block: Picture and Icons -->
-  <div style="flex: 1; max-width: 200px;">
+  <div style="flex: 1; max-width: 200px; background-color:rgb(110, 211, 234);">
     <img src="/assets/images/Cory.jpeg" alt="Your Image" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
 
     <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
