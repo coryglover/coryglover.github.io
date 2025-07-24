@@ -31,11 +31,7 @@
       Network Scientist <span style="font-size: 1.5em; vertical-align: middle;">&#8226;</span> Mathematician <span style="font-size: 1.5em; vertical-align: middle;">&#8226;</span> Data Scientist
     </h3>
     <p>
-    My research harnesses <b>network science</b> to understand the complex systems underlying the world around us.
-    From transportation, to social media, to metamaterials, networks surround us.
-    I use tools from <b>mathematics</b>, <b>statistical physics</b>, and <b>computer science</b> to build models, analyze data, and identify patterns across a variety of disciplines. 
-    Specifically, I have worked with data from nanomaterials and vascular systems to financial data and broadway shows.
-    Recently, my work defining a new metric for networks with a physical manifestation has appeared in Physical Review Letters as an Editors' Suggestion and included in their Best of 2024 edition.
+    My research applies <b>network science</b> to uncover the organizing principles behind the complex systems that shape our world. From transportation and social media to nanomaterials and Broadway productions, networks are everywhere—and I use tools from <b>mathematics</b>, <b>statistical physics</b>, and <b>computer science</b> to model them, analyze their structure, and reveal hidden patterns. My most recent work introduced a new metric for networks with physical constraints, published in <i>Physical Review Letters</i>, selected as an <b>Editor’s Suggestion</b>, and featured in their <b>Best of 2024</b> collection.
     </p>
     <!-- <p>
       I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study complex systems with a focus on how local interactions give rise to large-scale patterns in data. I'm passionate about interdisciplinary research and am currently seeking postdoctoral opportunities to continue exploring complex systems through new lenses.
