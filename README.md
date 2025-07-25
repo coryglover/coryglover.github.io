@@ -45,3 +45,5 @@
   </div>
 
 </div>
+
+<hr style="width: 100%; border: 1px solid #ccc; margin-top: 20px;">
