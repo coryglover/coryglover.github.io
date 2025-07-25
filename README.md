@@ -112,7 +112,7 @@
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 100px; display: flex; justify-content: center; align-items: center; padding: 20px;">
-    <img src="/assets/images/news/prl_2024.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px; padding-left: 100px;">
+    <img src="/assets/images/news/prl_2024.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
 </div>
 
   <!-- Right Block: Text Content -->
