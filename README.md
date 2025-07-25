@@ -55,7 +55,7 @@
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 200px;">
-    <img src="/assets/images/news/dissertation_proposal.jpg" alt="Your Image" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
+    <img src="/assets/images/news/dissertation_proposal.png" alt="Your Image" style="width: 100%; border-radius: 10px; margin-bottom: 10px; vertical-align: middle;">
   </div>
 
   <!-- Right Block: Text Content -->
@@ -64,21 +64,11 @@
       Dissertation Proposal Accepted
     </h3>
     <p>
-    On April 30, 2025 I successfully proposed my dissertation to my PhD committee. My dissertation consists of three projects. A special thank you to my committee members, Albert-László Barabási, Brennan Klein, Gabor Lippner, and Márton Pósfai.
-    
-    The first two projects in my dissertation focus on physical networks, where nodes and links occupy physical space, often leading to entangled configurations. This physicality introduces unique constraints and unexplored questions in network science. In the first project, I introduce a new metric, the average crossing number, to quantify the entanglement of physical networks. I demonstrate how key network characteristics—derived from both the adjacency matrix and node positions—control the degree of entanglement. In the second project, I explore how repeated network structures emerge in nature from a set of local rules. By combining node-level rules with inherent design principles, I aim to identify the mechanisms required to successfully design a target network from a predefined set of nodes.
-
-    In the third project, I shift focus to the limitations of reconstructing networks from node-level dynamics, as captured by time-series data. Using common network models with controlled statistics—such as density and degree heterogeneity—I investigate when and how node-level signals are sufficient or insufficient to capture the underlying network structure. This project provides new insights into the biases and challenges of network reconstruction, offering a critical perspective on the interpretability of inferred networks and highlighting the interplay between local dynamics and global structure.
+    On April 30, 2025 I successfully proposed my dissertation to my PhD committee. A special thank you to my committee members, Albert-László Barabási, Brennan Klein, Gabor Lippner, and Márton Pósfai. The projects involved in my dissertation can be found under projects. Feel free to reach out if you would like a recording of my proposal. 
     </p>
-    <!-- <p>
-      I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study complex systems with a focus on how local interactions give rise to large-scale patterns in data. I'm passionate about interdisciplinary research and am currently seeking postdoctoral opportunities to continue exploring complex systems through new lenses.
-    </p> -->
-    <!-- <p>
-      My research spans network science, time series analysis, and spectral graph theory. In my dissertation, I have developed fast new metrics for quantifying entanglement in physical networks, introduced generative models to capture the rules of network assembly, and evaluated methods for reconstructing networks from node-level time-series dynamics. My work on physical entanglement was featured in Physical Review Letters' Best of 2024 edition and highlighted as an Editors’ Suggestion.
-    </p> -->
-    <p>
-      <b>Currently, I am seeking a postdoctoral position for 2026.</b> I earned an MS in Network Science from Northeastern University in 2024, and an MS and BS in Mathematics from Brigham Young University in 2021 and 2019, respectively.
-    </p>
+    <!-- The first two projects in my dissertation focus on physical networks, where nodes and links occupy physical space, often leading to entangled configurations. This physicality introduces unique constraints and unexplored questions in network science. In the first project, I introduce a new metric, the average crossing number, to quantify the entanglement of physical networks. I demonstrate how key network characteristics—derived from both the adjacency matrix and node positions—control the degree of entanglement. In the second project, I explore how repeated network structures emerge in nature from a set of local rules. By combining node-level rules with inherent design principles, I aim to identify the mechanisms required to successfully design a target network from a predefined set of nodes.
+    In the third project, I shift focus to the limitations of reconstructing networks from node-level dynamics, as captured by time-series data. Using common network models with controlled statistics—such as density and degree heterogeneity—I investigate when and how node-level signals are sufficient or insufficient to capture the underlying network structure. This project provides new insights into the biases and challenges of network reconstruction, offering a critical perspective on the interpretability of inferred networks and highlighting the interplay between local dynamics and global structure. -->
+    <!-- </p> -->
   </div>
 
 </div>
