@@ -54,7 +54,7 @@
 <div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(194, 212, 232); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px;">
 
   <!-- Left Block: Picture and Icons -->
-  <div style="flex: 1; width: 50%; width: 50%; display: flex; justify-content: center; align-items: center; margin: 2 auto;">
+  <div style="flex: 1; width: 50%; width: 50%; display: flex; justify-content: center; align-items: center; padding: 10px;">
     <img src="/assets/images/news/dissertation_proposal.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
 </div>
 
@@ -63,8 +63,8 @@
     <h3>
       <i>April 2025</i> - Dissertation Proposal Accepted
     </h3>
-    <p">
-    I successfully proposed my dissertation, **From Local Rules to Global Structures: Entanglement, Design, and Reconstruction in Complex Networks**, to my PhD committee. A special thank you to my committee members, Albert-László Barabási, Brennan Klein, Gabor Lippner, and Márton Pósfai. The projects involved in my dissertation can be found under projects. Feel free to reach out if you would like a recording of my proposal. 
+    <p>
+    I successfully proposed my dissertation, <i>From Local Rules to Global Structures: Entanglement, Design, and Reconstruction in Complex Networks</i>, to my PhD committee. A special thank you to my committee members, Albert-László Barabási, Brennan Klein, Gabor Lippner, and Márton Pósfai. The projects involved in my dissertation can be found under projects. Feel free to reach out if you would like a recording of my proposal. 
     </p>
   </div>
 
