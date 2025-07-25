@@ -70,6 +70,25 @@
 
 </div>
 
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(194, 212, 232); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px;">
+
+  <!-- Left Block: Picture and Icons -->
+  <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
+    <img src="/assets/images/news/aps.jpg" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
+</div>
+
+  <!-- Right Block: Text Content -->
+  <div style="flex: 2; padding: 20px; border-radius: 10px;">
+    <h3>
+      <i>March 2025</i> - APS Global Physics Summit
+    </h3>
+    <p>
+    I presented our recently published work, <i>Measuring Entanglement in Physical Networks</i>, at the annual APS Global Physics Summit. This presentation was included as a talk in the focus session <i>Network Theory and New Materials</i>.
+    </p>
+  </div>
+
+</div>
+
 <hr style="width: 100%; border: 2px solid black; margin-top: 30px;">
 
 
