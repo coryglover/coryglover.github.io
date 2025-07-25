@@ -46,4 +46,4 @@
 
 </div>
 
-<hr style="width: 100%; border: 5px solid #ccc; margin-top: 20px;">
+<hr style="width: 100%; border: 5px solid black; margin-top: 20px;">
