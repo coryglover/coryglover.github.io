@@ -46,4 +46,9 @@
 
 </div>
 
-<hr style="width: 100%; border: 5px solid black; margin-top: 20px;">
+<hr style="width: 100%; border: 3px solid black; margin-top: 30px;">
+<p style="text align:center;">
+NEWS
+</p>
+<hr style="width: 100%; border: 3px solid black; margin-top: 30px;">
+
