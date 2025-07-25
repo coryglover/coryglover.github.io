@@ -51,11 +51,11 @@
 <b>NEWS</b>
 </h2>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px;">
 
   <!-- Left Block: Picture and Icons -->
-  <div style="flex: 1; max-width: 200px;">
-    <img src="/assets/images/news/dissertation_proposal.png" alt="Your Image" style="width: 100%; border-radius: 10px; margin-bottom: 10px; vertical-align: middle;">
+  <div style="flex: 1; max-width: 200px; justify-content: center; display: flex; align-items:center; height=200px;">
+    <img src="/assets/images/news/dissertation_proposal.png" alt="Your Image" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
   </div>
 
   <!-- Right Block: Text Content -->
