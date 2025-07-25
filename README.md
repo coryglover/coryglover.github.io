@@ -108,6 +108,66 @@
 
 </div>
 
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(194, 212, 232); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Left Block: Picture and Icons -->
+  <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
+    <img src="/assets/images/news/prl_2024.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
+</div>
+
+  <!-- Right Block: Text Content -->
+  <div style="flex: 2; padding: 20px; border-radius: 10px;">
+    <h3>
+      <i>December 2024</i> - Included in PRL Collection of the Year 2024
+    </h3>
+    <p>
+    I am honored to announce that my recent publication, <i>Measuring Entanglement in Physical Networks</i>, was chosen to be included in PRL's Collection of the Year 2024. Every year PRL publishes between 2000-2500 papers. Of these, 60 were chosen to be included in this year's collection. Thank you to the editors for recognizing our work in this manner.
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(194, 212, 232); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Left Block: Picture and Icons -->
+  <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
+    <img src="/assets/images/news/siam_2024.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
+</div>
+
+  <!-- Right Block: Text Content -->
+  <div style="flex: 2; padding: 20px; border-radius: 10px;">
+    <h3>
+      <i>October 2024</i> - SIAM Conference on the Mathematics of Data Science
+    </h3>
+    <p>
+    I presented two posters this year that the SIAM Conference on the Mathematics of Data Science. One poster presented the work of our recent PRL publication, <i>Measuring Entanglement on Physical Networks</i>. The second presented preliminary findings unveiling the biases of state-of-the-art methods used to reconstruct networks from node-level time series data.
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(194, 212, 232); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Left Block: Picture and Icons -->
+  <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
+    <img src="/assets/images/news/entanglement_editor.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
+</div>
+
+  <!-- Right Block: Text Content -->
+  <div style="flex: 2; padding: 20px; border-radius: 10px;">
+    <h3>
+      <i>August 2024</i> - <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.077401" target="_blank">New Publication and Editors' Suggestion
+    </h3>
+    <p>
+    This month my advisor and I published our new findings on physical networks in Physical Review Letters. I am honored to announce we were included as an Editors' Suggestion for this issue. Thank you to the editors for highlighting our work. 
+    </p>
+    <p>
+    In this work, we define a new metric for measuring entanglement in physical networks. Entanglement in physical networks is the manner which links push and wrap around each other as they form connections. Our new metric is significantly faster than previous methods and is analytically tractable. From our derivations, we derive that entanglement is driven by density, link length, degree heterogeneity, and community structure.
+    </p>
+  </div>
+
+</div>
+
 <hr style="width: 100%; border: 2px solid black; margin-top: 30px;">
 
 
