@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
 <!-- <div style="width: 100%; text-align: center; margin-bottom: 20px;">
             <img src="/assets/images/banner1.png" alt="Banner Image" style="width: 100%; max-height: 300px; object-fit: cover; object-position: center 50%;">
 </div> -->
