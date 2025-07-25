@@ -47,8 +47,8 @@
 </div>
 
 <hr style="width: 100%; border: 3px solid black; margin-top: 30px;">
-<p style="text-align:center; vertical-align: middle; font-size 1.3em;">
+<h2 style="text-align:center; vertical-align: middle;">
 <b>NEWS</b>
-</p>
+</h2>
 <hr style="width: 100%; border: 3px solid black; margin-top: 30px;">
 
