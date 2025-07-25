@@ -54,21 +54,17 @@
 <div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(9, 99, 147); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px;">
 
   <!-- Left Block: Picture and Icons -->
-  <div style="flex: 1; max-width: 180px; height: 180px; display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; max-width: 180px; height: 180px; display: flex; justify-content: center; align-items: center; margin: 0 auot;">
     <img src="/assets/images/news/dissertation_proposal.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
 </div>
 
   <!-- Right Block: Text Content -->
   <div style="flex: 2; padding: 20px; border-radius: 10px;">
-    <h3 style="margin: 0px 0;">
-      *April 2025* - Dissertation Proposal Accepted
+    <h3 style="margin: 0px 0; color: white;">
+      <i>April 2025</i> - Dissertation Proposal Accepted
     </h3>
-    <p>
+    <p stype="color: white;">
     I successfully proposed my dissertation, **From Local Rules to Global Structures: Entanglement, Design, and Reconstruction in Complex Networks**, to my PhD committee. A special thank you to my committee members, Albert-László Barabási, Brennan Klein, Gabor Lippner, and Márton Pósfai. The projects involved in my dissertation can be found under projects. Feel free to reach out if you would like a recording of my proposal. 
-    </p>
-    <!-- The first two projects in my dissertation focus on physical networks, where nodes and links occupy physical space, often leading to entangled configurations. This physicality introduces unique constraints and unexplored questions in network science. In the first project, I introduce a new metric, the average crossing number, to quantify the entanglement of physical networks. I demonstrate how key network characteristics—derived from both the adjacency matrix and node positions—control the degree of entanglement. In the second project, I explore how repeated network structures emerge in nature from a set of local rules. By combining node-level rules with inherent design principles, I aim to identify the mechanisms required to successfully design a target network from a predefined set of nodes.
-    In the third project, I shift focus to the limitations of reconstructing networks from node-level dynamics, as captured by time-series data. Using common network models with controlled statistics—such as density and degree heterogeneity—I investigate when and how node-level signals are sufficient or insufficient to capture the underlying network structure. This project provides new insights into the biases and challenges of network reconstruction, offering a critical perspective on the interpretability of inferred networks and highlighting the interplay between local dynamics and global structure. -->
-    <!-- </p> -->
   </div>
 
 </div>
