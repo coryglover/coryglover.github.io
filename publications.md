@@ -44,7 +44,7 @@ January 2025</i>
 Reconstructed from Time Series Data, Atlanta, GA, October 2024</i>
     </li>
     <li style="margin-bottom: 10px; vertical-align: middle;">
-      <i>SIAM MDS, Measuring Entanglement in Physical Networks, Atlanta, GA, October
+      <i>SIAM MDS, Measuring Entanglement in Physical Networks, Atlanta, GA, October</i>
 2024</li>
     <li style="margin-bottom: 10px; vertical-align: middle;">
       <i>NetSi, Measuring Entanglement in Physical Networks, Quebec, CA, June 2024</i>
