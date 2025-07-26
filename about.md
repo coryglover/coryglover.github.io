@@ -20,7 +20,10 @@ show_picture: false
     <p>
     At Northeastern, my PhD research has centered on physical networks and network reconstruction using tools from statistical physics, Bayesian inference, and graph theory. 
     Before this, I earned my BS and MS in Mathematics at Brigham Young University, where I focused on spectral graph theory and developed new methods for community detection using non-backtracking random walks and PageRank variations. </p> 
-    <p> Beyond research, I enjoy writing music, traveling, exploring aquariums with my wife, reading with a cat on my lap, and catching live theater whenever I can. </p>
+    <p>
+    In addition to research, I’m passionate about teaching mathematics in a way that bridges theory and real-world application. I believe clear, example-driven instruction fosters the kind of intuition needed to tackle complex problems—for students and instructors alike. 
+    </p>
+    <p> Outside of work, I enjoy writing music, traveling, exploring the Atlanta aquarium with my wife, reading with a cat on my lap, and catching live theater whenever I can. </p>
   </div>
 
 </div>
