@@ -35,5 +35,21 @@ show_picture: false
     <li style="margin-bottom: 10px; vertical-align: middle;">
       <i>APS Annual Meeting, Measuring Entanglement in Physical Networks, Anaheim, CA, March 2025</i>
     </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i><sup>*</sup>Joint Mathematics Meetings, Non-Backtracking Spectrum of Graphs, Seattle, WA,
+January 2025</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>SIAM MDS, Deconstructing Reconstruction: Structural Biases in Networks
+Reconstructed from Time Series Data, Atlanta, GA, October 2024</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>SIAM MDS, Measuring Entanglement in Physical Networks, Atlanta, GA, October
+2024</i>
+    </li>
+    li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>NetSi, Measuring Entanglement in Physical Networks, Quebec, CA, June 2024</i>
+    </li>
+
 </ul>
 </div>
