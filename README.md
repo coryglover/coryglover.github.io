@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center; margin-bottom: 20px;">
-            <img src="/assets/images/banner_many_shades.png" alt="Banner Image" style="width: 100%; max-height: 300px; object-fit: cover; object-position: center 50%;">
+            <img src="/assets/images/banner_blue.png" alt="Banner Image" style="width: 100%; max-height: 300px; object-fit: cover; object-position: center 50%;">
 </div>
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
