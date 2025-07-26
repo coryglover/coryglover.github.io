@@ -18,7 +18,7 @@ show_picture: false
     <p> I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study how local interactions in complex systems give rise to large-scale patterns in data, and I’m currently seeking postdoctoral opportunities to continue this work through new interdisciplinary collaborations. </p> 
     <p> I like to say I’m a mathematician with too many interests. I’ve worked on projects in materials science, neurostimulation, and psychology, often serving as the “math guy” on interdisciplinary teams. I’m especially drawn to complex systems—networks of interacting parts—and enjoy modeling their structure and dynamics across domains, from ecological systems and animal behavior to collaboration networks and information flow. </p> 
     <p>
-    At Northeastern, my PhD research has centered on physical networks and network reconstruction—inferring hidden structure from time-series data—using tools from statistical physics, Bayesian inference, and linear programming. 
+    At Northeastern, my PhD research has centered on physical networks and network reconstruction using tools from statistical physics, Bayesian inference, and graph theory. 
     Before this, I earned my BS and MS in Mathematics at Brigham Young University, where I focused on spectral graph theory and developed new methods for community detection using non-backtracking random walks and PageRank variations. </p> 
     <p> Beyond research, I enjoy writing music, traveling, exploring aquariums with my wife, reading with a cat on my lap, and catching live theater whenever I can. </p>
   </div>
