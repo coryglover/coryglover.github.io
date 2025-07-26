@@ -13,7 +13,7 @@ show_picture: false
   </div>
 
   <!-- Right Block: Text Content -->
-  <div style="flex: 2; background-color: rgb(202, 228, 204);x padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div style="flex: 2; background-color: rgb(202, 228, 204); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h2 style="margin: 0px 0;">About Me</h2>
     <p> I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study how local interactions in complex systems give rise to large-scale patterns in data, and I’m currently seeking postdoctoral opportunities to continue this work through new interdisciplinary collaborations. </p> 
     <p> I like to say I’m a mathematician with too many interests. I’ve worked on projects in materials science, neurostimulation, and psychology, often serving as the “math guy” on interdisciplinary teams. I’m especially drawn to complex systems—networks of interacting parts—and enjoy modeling their structure and dynamics across domains, from ecological systems and animal behavior to collaboration networks and information flow. </p> 
