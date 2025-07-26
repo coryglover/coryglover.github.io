@@ -52,3 +52,12 @@ Reconstructed from Time Series Data, Atlanta, GA, October 2024</i>
 
 </ul>
 </div>
+
+<div style="background-color: rgb(202, 228, 204); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);margin-top: 20px;">
+<h2> Teaching Experience </h2>
+<ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>APS Annual Meeting, Measuring Entanglement in Physical Networks, Anaheim, CA, March 2025</i>
+    </li>
+</ul>
+</div>
