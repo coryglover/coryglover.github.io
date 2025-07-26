@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center; margin-bottom: 20px;">
-            <img src="/assets/images/banner_dark_blue.png" alt="Banner Image" style="width: 100%; max-height: 300px; object-fit: cover; object-position: center 50%;">
+            <img src="/assets/images/banner_blue.png" alt="Banner Image" style="width: 100%; max-height: 300px; object-fit: cover; object-position: center 50%;">
 </div>
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
@@ -70,7 +70,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(202, 228, 204);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(174, 225, 252);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -89,7 +89,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(202, 228, 204);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(174, 225, 252);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -108,7 +108,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(202, 228, 204);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(174, 225, 252);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -127,7 +127,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(202, 228, 204);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(174, 225, 252);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -146,7 +146,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(202, 228, 204);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(174, 225, 252);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
