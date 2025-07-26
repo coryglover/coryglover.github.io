@@ -49,7 +49,6 @@ Reconstructed from Time Series Data, Atlanta, GA, October 2024</i>
     <li style="margin-bottom: 10px; vertical-align: middle;">
       <i>NetSi, Measuring Entanglement in Physical Networks, Quebec, CA, June 2024</i>
     </li>
-
 </ul>
 </div>
 
