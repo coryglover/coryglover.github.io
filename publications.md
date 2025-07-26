@@ -7,7 +7,7 @@ show_picture: false
 
 <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 <h2> Publications </h2>
-<ul style="list-style-type: circle; padding-left: 20px; margin: 0;">
+<ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
     <li style="margin-bottom: 10px;">
       <i><sup style="vertical-align: top;">*</sup><sup style="vertical-align: top;">+</sup><b>Glover, C.</b>, & Barabási, A. L. (2024). <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.077401" target="_blank" style="color: black">Measuring Entanglement in Physical Networks.</a> Physical Review Letters, 133(7), 077401.</i>
     </li>
