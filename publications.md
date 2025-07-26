@@ -5,7 +5,7 @@ permalink: /publications/
 show_picture: false
 ---
 
-<div style="width: 100%; text-align: left; background-color: #e0e0e0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 <h2> Publications </h2>
 <p>
   <i><sup style="vertical-align: top;">*</sup><sup style="vertical-align: top;">+</sup><b>Glover, C.</b>, & Barabási, A. L. (2024). <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.077401" target="_blank" style="color: black">Measuring Entanglement in Physical
