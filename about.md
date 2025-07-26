@@ -15,21 +15,12 @@ show_picture: false
   <!-- Right Block: Text Content -->
   <div style="flex: 2; background-color: rgb(202, 228, 204); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h2 style="margin: 0px 0;">About Me</h2>
+    <p> I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study how local interactions in complex systems give rise to large-scale patterns in data, and I’m currently seeking postdoctoral opportunities to continue this work through new interdisciplinary collaborations. </p> 
+    <p> I like to say I’m a mathematician with too many interests. I’ve worked on projects in materials science, neurostimulation, and psychology, often serving as the “math guy” on interdisciplinary teams. I’m especially drawn to complex systems—networks of interacting parts—and enjoy modeling their structure and dynamics across domains, from ecological systems and animal behavior to collaboration networks and information flow. </p> 
     <p>
-      I'm a fifth-year PhD candidate in Network Science at Northeastern University, advised by Dr. Albert-László Barabási. I study complex systems with a focus on how local interactions give rise to large-scale patterns in data. I'm passionate about interdisciplinary research and am currently seeking postdoctoral opportunities to continue exploring complex systems through new lenses.
-    </p>
-    <p>
-      I like to say I’m a mathematician with too many interests. My favorite scientific role is being the “math guy" on a multidisciplinary team. This passion has led me to contribute on projects ranging from material science to neurostimulation and psychology. Broadly, I’m drawn to <i>complex systems</i>—systems made up of many interacting parts—and enjoy applying mathematical tools to understand them across diverse domains. This includes modeling and analyzing network structure and behavior using novel metrics and models. I'm especially interested in collaboration networks, animal social behavior networks, ecological systems, and the dynamical processes that unfold over networks. That being said, I’m always excited by new datasets and new questions.
-    </p>
-    <p>
-       I began studying mathematics at Brigham Young University, where I earned a Bachelor's degree in Applied and Computational Mathematics. This program emphasized the theoretical foundations of modern data science, covering topics like algorithm optimization, machine learning, control theory, deep learning, and dynamical modeling. During this time, I was introduced to network science and graph theory—topics I quickly gravitated toward. I went on to pursue a Master’s in Mathematics at BYU under the mentorship of Dr. Mark Kempton, focusing on spectral graph theory. In my thesis, I proved new bounds on the spectrum of non-backtracking random walks and developed a novel method for community detection based on a variation of Google's famous PageRank algorithm.
-    </p>
-    <p>
-        I later joined the Network Science Institute at Northeastern University to pursue a PhD, drawn by the program’s interdisciplinary focus and commitment to scientific rigor. My research with Dr. Barabási has centered on physical networks, while I’ve also led projects on network reconstruction—methods that infer hidden network structures from time-series data. In these projects, I’ve applied tools from statistical physics, Bayesian inference, linear programming, graph theory, and knot theory to better understand natural phenomena in real-world networks.
-    </p>
-    <p>
-        Outside of research, I enjoy playing and writing music, traveling, exploring the Atlanta aquarium with my wife, seeing live theater and reading books with a cat on my lap. 
-    </p>
+    At Northeastern, my PhD research has centered on physical networks and network reconstruction—inferring hidden structure from time-series data—using tools from statistical physics, Bayesian inference, and linear programming. 
+    Before this, I earned my BS and MS in Mathematics at Brigham Young University, where I focused on spectral graph theory and developed new methods for community detection using non-backtracking random walks and PageRank variations. </p> 
+    <p> Beyond research, I enjoy writing music, traveling, exploring aquariums with my wife, reading with a cat on my lap, and catching live theater whenever I can. </p>
   </div>
 
 </div>
