@@ -24,4 +24,9 @@ matrix of a graph.</a> Linear Algebra and its Applications, 618, 37-57.
   Colton, L., <b>Glover, C.</b>, Hughes, M., & Sandberg, S. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0166864119303074" target="_blank" style="color: black">A Reidemeister type
 theorem for petal diagrams of knots.</a> Topology and its Applications, 267, 106896.
 </p>
+<p>
+  Humphreys, J. & Jarvis, T. (2018). Lab Manuals for Foundations of Applied
+Mathematics. <a href="https://foundations-of-applied-mathematics.github.io" target="_blank" style="color: black">https://foundations-of-applied-mathematics.github.io.</a> Brigham Young
+University. (Contributor)
+</p>
 </div>
