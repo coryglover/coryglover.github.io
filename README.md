@@ -51,7 +51,7 @@
 <b>NEWS</b>
 </h2>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(194, 212, 232); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(92, 201, 250); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -89,7 +89,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(71, 158, 188); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(92, 201, 250); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -108,7 +108,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(202, 228, 204); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(92, 201, 250); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -127,7 +127,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(194, 212, 232); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(92, 201, 250);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -146,7 +146,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(122, 226, 193); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(92, 201, 250); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
@@ -171,3 +171,4 @@
 <hr style="width: 100%; border: 2px solid black; margin-top: 30px;">
 
 
+<!-- Blue i like rgb(194, 212, 232); -->
