@@ -18,9 +18,9 @@ show_picture: false
 
   <!-- Dropdown Content -->
   <div id="dropdown1" style="display: none; padding: 20px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
-      <img src="/assets/images/projects/net_design.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
+      <img src="/assets/images/projects/net_design.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       
       <!-- Text -->
       <p style="margin: 0;">
@@ -39,9 +39,9 @@ show_picture: false
 
   <!-- Dropdown Content -->
   <div id="dropdown2" style="display: none; padding: 20px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
-      <img src="/assets/images/projects/net_recon.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
+      <img src="/assets/images/projects/net_recon.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
         Network reconstruction seeks to reveal the hidden network structure of a system using its node-level dynamics. State-of-the-art methods use Bayesian inference to detect these networks. We are investigating how these methods are biased as a result of the true, underlying structure of the network.
@@ -59,9 +59,9 @@ show_picture: false
 
   <!-- Dropdown Content -->
   <div id="dropdown3" style="display: none; padding: 20px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
-      <img src="/assets/images/projects/net_entanglement.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
+      <img src="/assets/images/projects/net_entanglement.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
         Physical networks are networks which take up volume in 3D-space. Our previous work introduced various measures of link entanglement in these networks. We are applying these measures to network materials to understand the effect entanglement has on the physical properties of a network.
