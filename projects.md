@@ -14,7 +14,7 @@ show_picture: false
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px; vertical-align: center;">
-    <img src="/assets/images/projects/net_design.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 50%; border: 2px solid black; object-fit: cover;">
+    <img src="/assets/images/projects/net_design_model.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 50%; border: 2px solid black; object-fit: cover;">
 </div>
 
   <!-- Right Block: Text Content -->
