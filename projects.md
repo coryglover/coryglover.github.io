@@ -41,7 +41,7 @@ show_picture: false
   <div id="dropdown2" style="display: none; padding: 20px;">
     <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
-      <img src="/assets/images/projects/net_recon.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
+      <img src="/assets/images/projects/net_recon.jpg" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
         Network reconstruction seeks to reveal the hidden network structure of a system using its node-level dynamics. State-of-the-art methods use Bayesian inference to detect these networks. We are investigating how these methods are biased as a result of the true, underlying structure of the network.
@@ -65,6 +65,26 @@ show_picture: false
       <!-- Text -->
       <p style="margin: 0;">
         Physical networks are networks which take up volume in 3D-space. Our previous work introduced various measures of link entanglement in these networks. We are applying these measures to network materials to understand the effect entanglement has on the physical properties of a network.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+  <!-- Dropdown Header -->
+  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown3')">
+    <h3 style="margin: 0; text-align: left;">Brain Stimulation for Depression</h3>
+    <span style="font-size: 20px;">&#9660;</span>
+  </div>
+
+  <!-- Dropdown Content -->
+  <div id="dropdown4" style="display: none; padding: 20px;">
+    <div style="display: flex; align-items: center; gap: 20px;">
+      <!-- Image -->
+      <img src="/assets/images/projects/brain_stimulation.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
+      <!-- Text -->
+      <p style="margin: 0;">
+        Brain stimulation is an effective therapy for psychiatric illness, however which parts of the brain to stimulate for particular illnesses remains an open question. We seek to identify stimulation targets to improve depression symptoms in patients. 
       </p>
     </div>
   </div>
