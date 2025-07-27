@@ -81,7 +81,7 @@ show_picture: false
       <img src="/assets/images/projects/brain_stimulation.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
-        Brain stimulation is an effective therapy for psychiatric illness, however which parts of the brain to stimulate for particular illnesses remains an open question. We seek to identify stimulation targets to improve depression symptoms in patients. 
+        Brain stimulation is an effective therapy for psychiatric illness, however which parts of the brain to stimulate for particular illnesses remains an open question. Using lesion network mapping, we seek to identify stimulation targets which improve depression symptoms in patients in order to create more effective treatment. 
       </p>
     </div>
   </div>
