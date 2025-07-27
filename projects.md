@@ -5,7 +5,7 @@ permalink: /projects/
 show_picture: false
 ---
 
-<div style="background-color: rgb(174, 225, 252); padding: 3px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background-color: rgb(174, 225, 252); padding: 1px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 <h1 style="text-align:center;">Active Projects</h1>
 </div>
 
