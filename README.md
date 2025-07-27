@@ -168,6 +168,25 @@
 
 </div>
 
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color:rgb(174, 225, 252);box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Left Block: Picture and Icons -->
+  <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
+    <img src="/assets/images/news/netsci_2024.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
+</div>
+
+  <!-- Right Block: Text Content -->
+  <div style="flex: 2; padding: 20px; border-radius: 10px;">
+    <h3>
+      <i>July 2024</i> - NetSci 2024, Quebec City, Canada
+    </h3>
+    <p>
+    I gave a talk at this year's NetSci International Conference on Network Science. I presented work on our upcoming paper, <i>Measuring Entanglement in Physical Networks</i>, which will be published soon in PRL.
+    </p>
+  </div>
+
+</div>
+
 <hr style="width: 100%; border: 2px solid black; margin-top: 30px;">
 
 
