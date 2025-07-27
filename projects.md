@@ -52,7 +52,6 @@ show_picture: false
   <!-- Dropdown Header -->
   <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
     <h3 style="margin: 0; text-align: left;">Network Entanglement</h3>
-    <span style="font-size: 20px;">&#9660;</span>
   </div>
 
   <!-- Dropdown Content -->
@@ -71,8 +70,7 @@ show_picture: false
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
   <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
-     <h3 style="margin: 0; text-align: left;">Brain Stimulation for Depression</h3>
-    <span style="font-size: 20px;">&#9660;</span>
+     <h3 style="margin: 0; text-align: left;">Brain Stimulation Targets for Depression</h3>
   </div>
 
   <!-- Dropdown Content -->
