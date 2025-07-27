@@ -10,14 +10,13 @@ show_picture: false
 <!-- </div> -->
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
-  <!-- Dropdown Header -->
-  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown1')">
+  <!-- Header -->
+  <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
     <h3 style="margin: 0; text-align: left;">Network Design</h3>
-    <span style="font-size: 20px;">&#9660;</span> <!-- Down arrow -->
   </div>
 
-  <!-- Dropdown Content -->
-  <div id="dropdown1" style="display: none; padding: 20px;">
+  <!-- Content -->
+  <div style="padding: 20px;">
     <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
       <img src="/assets/images/projects/net_design.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
@@ -31,14 +30,13 @@ show_picture: false
 </div>
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
-  <!-- Dropdown Header -->
-  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown2')">
+  <!-- Header -->
+  <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
     <h3 style="margin: 0; text-align: left;">Network Reconstruction</h3>
-    <span style="font-size: 20px;">&#9660;</span>
   </div>
 
-  <!-- Dropdown Content -->
-  <div id="dropdown2" style="display: none; padding: 20px;">
+  <!-- Content -->
+  <div style="padding: 20px;">
     <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
       <img src="/assets/images/projects/net_recon.jpg" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
