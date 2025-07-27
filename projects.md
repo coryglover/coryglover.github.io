@@ -7,7 +7,7 @@ show_picture: false
 
 <!-- <div style="background-color: rgb(174, 225, 252); padding: 5px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;"> -->
 <h1 style="text-align:left; ">Active Projects</h1>
-<hr style="width: 100%; border: 2px solid black; margin-top: 30px;">
+<hr style="width: 100%; border: 2px solid black; margin-top: 0px;">
 <!-- </div> -->
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
@@ -40,7 +40,7 @@ show_picture: false
   <div style="padding: 20px;">
     <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
-      <img src="/assets/images/projects/net_recon.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
+      <img src="/assets/images/projects/net_recon.jpg" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
         Network reconstruction seeks to reveal the hidden network structure of a system using its node-level dynamics. State-of-the-art methods use Bayesian inference to detect these networks. We are investigating how these methods are biased as a result of the true, underlying structure of the network.
