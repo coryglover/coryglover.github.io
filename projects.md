@@ -62,8 +62,24 @@ show_picture: false
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
+  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown1')">
+    <h3 style="margin: 0; text-align: left;">Network Design</h3>
+    <span style="font-size: 20px;">&#9660;</span> <!-- Down arrow -->
+  </div>
+
+  <!-- Dropdown Content -->
+  <div id="dropdown1" style="display: none; padding: 20px; gap: 10px;">
+    <img src="/assets/images/projects/net_design.png" alt="Icon" style="width: 50px; height: 50px; border-radius: 5px;">
+    <p style="margin:0;">
+      Many networks found in nature, such as proteins and molecules, are reproduced with exact connectivity patterns. Relying on mathematical tools such as Bayesian inference and graph theory, along with multiple datasets, we are investigating how nature is able to design network's with exact connectivity patterns.
+    </p>
+  </div>
+</div>
+
+<div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+  <!-- Dropdown Header -->
   <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px;" onclick="toggleDropdown('dropdown1')">
-    <h2 style="margin: 0;">Network Reconstruction</h2>
+    <h3 style="margin: 0;">Network Reconstruction</h3>
   </div>
 
   <!-- Dropdown Content -->
@@ -77,7 +93,7 @@ show_picture: false
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
   <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px;" onclick="toggleDropdown('dropdown2')">
-    <h2 style="margin: 0;">Network Entanglement</h2>
+    <h3 style="margin: 0;">Network Entanglement</h3>
   </div>
 
   <!-- Dropdown Content -->
