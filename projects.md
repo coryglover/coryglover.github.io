@@ -62,7 +62,7 @@ show_picture: false
       <img src="/assets/images/projects/net_entanglement.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
-        Physical networks are networks which take up volume in 3D-space. Our previous work introduced various measures of link entanglement in these networks. We are applying these measures to network materials to understand the effect entanglement has on the physical properties of a network.
+        Physical networks are networks which take up volume in 3D-space. We have introduced various measures of link entanglement in these networks, such as the average crossing number and graph linking number. We are now applying these measures to network materials to understand the effect entanglement has on the physical properties of a network.
       </p>
     </div>
   </div>
