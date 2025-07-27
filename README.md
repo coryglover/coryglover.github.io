@@ -40,7 +40,7 @@
       My research spans network science, time series analysis, and spectral graph theory. In my dissertation, I have developed fast new metrics for quantifying entanglement in physical networks, introduced generative models to capture the rules of network assembly, and evaluated methods for reconstructing networks from node-level time-series dynamics. My work on physical entanglement was featured in Physical Review Letters' Best of 2024 edition and highlighted as an Editors’ Suggestion.
     </p> -->
     <p>
-      <b>Currently, I am seeking a postdoctoral position for 2026.</b> I earned an MS in Network Science from Northeastern University in 2024, and an MS and BS in Mathematics from Brigham Young University in 2021 and 2019, respectively.
+      <b>Currently, I am seeking a postdoctoral position for 2026.</b> I earned an MS in Network Science from Northeastern University in 2025, and an MS and BS in Mathematics from Brigham Young University in 2021 and 2019, respectively.
     </p>
   </div>
 
@@ -159,7 +159,7 @@
       <i>August 2024</i> - <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.077401" target="_blank" style="color: black">New Publication</a> and Editors' Suggestion
     </h3>
     <p>
-    This month my advisor and I published our new findings on physical networks in Physical Review Letters. I am honored to announce we were included as an Editors' Suggestion for this issue. Thank you to the editors for highlighting our work. 
+    This month my advisor, Albert-László Barabási, and I published our new findings on physical networks in Physical Review Letters. I am honored to announce we were included as an Editors' Suggestion for this issue. Thank you to the editors for highlighting our work. 
     </p>
     <p>
     In this work, we define a new metric for measuring entanglement in physical networks. Entanglement in physical networks is the manner which links push and wrap around each other as they form connections. Our new metric is significantly faster than previous methods and is analytically tractable. From our derivations, we derive that entanglement is driven by density, link length, degree heterogeneity, and community structure.
