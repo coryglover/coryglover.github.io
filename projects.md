@@ -14,7 +14,7 @@ show_picture: false
   <!-- Project 1 -->
   <div style="background-color: rgb(202, 228, 204); border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
-      <img src="/assets/images/projects/net_design_model.png" alt="Network Design" style="max-width: 100%; max-height: 200px; border-radius: 10px;">
+      <img src="/assets/images/projects/net_design.png" alt="Network Design" style="max-width: 100%; max-height: 200px; border-radius: 10px;">
     </div>
     <h2 style="text-align: center;">Network Design</h2>
     <!-- <p>
@@ -25,7 +25,7 @@ show_picture: false
   <!-- Project 2 -->
   <div style="background-color: #e0e0e0; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
-      <img src="/assets/images/projects/net_recon.png" alt="Project 2" style="max-width: 100%; max-height: 200px; border-radius: 10px;">
+      <img src="/assets/images/projects/net_recon.jpg" alt="Project 2" style="max-width: 100%; max-height: 200px; border-radius: 10px;">
     </div>
     <h2 style="text-align: center;">Network Reconstruction</h2>
     <!-- <p>
