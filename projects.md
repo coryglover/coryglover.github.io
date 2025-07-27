@@ -5,9 +5,9 @@ permalink: /projects/
 show_picture: false
 ---
 
-<div style="background-color: rgb(174, 225, 252); padding: 5px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+<!-- <div style="background-color: rgb(174, 225, 252); padding: 5px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;"> -->
 <h1 style="text-align:center; margin: 0;">Active Projects</h1>
-</div>
+<!-- </div> -->
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
