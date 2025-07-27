@@ -50,13 +50,13 @@ show_picture: false
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
-  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown3')">
+  <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
     <h3 style="margin: 0; text-align: left;">Network Entanglement</h3>
     <span style="font-size: 20px;">&#9660;</span>
   </div>
 
   <!-- Dropdown Content -->
-  <div id="dropdown3" style="display: none; padding: 20px;">
+  <div style="padding: 20px;">
     <div style="display: flex; align-items: center; gap: 20px;">
       <!-- Image -->
       <img src="/assets/images/projects/net_entanglement.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
@@ -70,15 +70,15 @@ show_picture: false
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
-  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown3')">
-    <h3 style="margin: 0; text-align: left;">Brain Stimulation for Depression</h3>
+  <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
+     <h3 style="margin: 0; text-align: left;">Brain Stimulation for Depression</h3>
     <span style="font-size: 20px;">&#9660;</span>
   </div>
 
   <!-- Dropdown Content -->
-  <div id="dropdown4" style="display: none; padding: 20px;">
+ <div style="padding: 20px;">
     <div style="display: flex; align-items: center; gap: 20px;">
-      <!-- Image -->
+     <!-- Image -->
       <img src="/assets/images/projects/brain_stimulation.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
