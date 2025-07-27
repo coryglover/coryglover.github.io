@@ -90,6 +90,9 @@ On Petal Projections of Knots, Provo, UT, 2019</i>
       <i>Joint Mathematics Meetings, A Reidemeister Type Theorem On Petal Projections of
 Knots, Baltimore, MD, 2019</i>
     </li>
+    <p style="margin: 5px 0; font-size: .9em;">
+<sup style="vertical-align: top;">*</sup>Invited Talk
+</p>
 </ul>
 </div>
 
