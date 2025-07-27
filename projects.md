@@ -97,3 +97,20 @@ show_picture: false
     }
   }
 </script>
+
+<h1 style="text-align:left; margin-bottom:0px;margin-top: 30px;">Past Projects</h1>
+<hr style="width: 100%; border: 2px solid black; margin-top: 0px; margin-bottom: 20px;">
+<!-- </div> -->
+<div style="background-color:rgb(174, 225, 252); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      Spectral Properties of Non-Backtracking Random Walks
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      Community Detection Using Non-Backtracking PageRank
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      Petal Diagrams of Knots
+    </li>
+</ul>
+</div>
