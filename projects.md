@@ -17,52 +17,63 @@ show_picture: false
   </div>
 
   <!-- Dropdown Content -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <!-- Image -->
-    <img src="/assets/images/projects/net_design.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
-    
-    <!-- Text -->
-    <p style="margin: 0;">
-      Many networks found in nature, such as proteins and molecules, are reproduced with exact connectivity patterns. Relying on mathematical tools such as Bayesian inference and graph theory, along with multiple datasets, we are investigating how nature is able to design networks with exact connectivity patterns.
-    </p>
-</div>
-</div>
-
-<div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
-  <!-- Dropdown Header -->
-  <h3 style="margin: 0; text-align: left;">Network Reconstruction</h3>
-    <span style="font-size: 20px;">&#9660;</span>
-
-  <!-- Dropdown Content -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <!-- Image -->
-    <img src="/assets/images/projects/net_recon.jpg" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
-    <!-- Text -->
-    <p style="margin: 0;">
-      Network reconstruction seeks to reveal the hidden network structure of a system using its node-level dynamics. State-of-the-art methods use Bayesian inference to detect these networks. We are investigating how these methods are biased as a result of the true, underlying structure of the network.
-    </p>
+  <div id="dropdown1" style="display: none; padding: 20px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <!-- Image -->
+      <img src="/assets/images/projects/net_design.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
+      
+      <!-- Text -->
+      <p style="margin: 0;">
+        Many networks found in nature, such as proteins and molecules, are reproduced with exact connectivity patterns. Relying on mathematical tools such as Bayesian inference and graph theory, along with multiple datasets, we are investigating how nature is able to design networks with exact connectivity patterns.
+      </p>
+    </div>
   </div>
 </div>
 
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
-  <h3 style="margin: 0; text-align: left;">Network Entanglement</h3>
+  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown2')">
+    <h3 style="margin: 0; text-align: left;">Network Reconstruction</h3>
     <span style="font-size: 20px;">&#9660;</span>
+  </div>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <!-- Image -->
-    <img src="/assets/images/projects/net_entanglement.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
-    <!-- Text -->
-    <p style="margin: 0;">
-      Physical networks are networks which take up volume in 3D-space. Our previous work introduced various measures of link entanglement in these networks. We are applying these measures to network materials to understand the effect entanglement has on the physical properties of a network.
-    </p>
+  <!-- Dropdown Content -->
+  <div id="dropdown2" style="display: none; padding: 20px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <!-- Image -->
+      <img src="/assets/images/projects/net_recon.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
+      <!-- Text -->
+      <p style="margin: 0;">
+        Network reconstruction seeks to reveal the hidden network structure of a system using its node-level dynamics. State-of-the-art methods use Bayesian inference to detect these networks. We are investigating how these methods are biased as a result of the true, underlying structure of the network.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+  <!-- Dropdown Header -->
+  <div style="cursor: pointer; padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;" onclick="toggleDropdown('dropdown3')">
+    <h3 style="margin: 0; text-align: left;">Network Entanglement</h3>
+    <span style="font-size: 20px;">&#9660;</span>
+  </div>
+
+  <!-- Dropdown Content -->
+  <div id="dropdown3" style="display: none; padding: 20px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <!-- Image -->
+      <img src="/assets/images/projects/net_entanglement.png" alt="Icon" style="width: 100px; height: 100px; border-radius: 5px;">
+      <!-- Text -->
+      <p style="margin: 0;">
+        Physical networks are networks which take up volume in 3D-space. Our previous work introduced various measures of link entanglement in these networks. We are applying these measures to network materials to understand the effect entanglement has on the physical properties of a network.
+      </p>
+    </div>
   </div>
 </div>
 
 <script>
   function toggleDropdown(id) {
     const element = document.getElementById(id);
-    if (element.style.display === 'none') {
+    if (element.style.display === 'none' || element.style.display === '') {
       element.style.display = 'block';
     } else {
       element.style.display = 'none';
