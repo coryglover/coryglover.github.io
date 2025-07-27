@@ -49,6 +49,47 @@ Reconstructed from Time Series Data, Atlanta, GA, October 2024</i>
     <li style="margin-bottom: 10px; vertical-align: middle;">
       <i>NetSi, Measuring Entanglement in Physical Networks, Quebec, CA, June 2024</i>
     </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Zámeček DYNASNET Workshop, Effects of Network Topology on Entanglement,
+Lednice, Czech Republic, 2023</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>NetSi, Effects of Network Topology on the Entanglement of Physical Networks,
+Vienna, Austria, 2023</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Joint Mathematics Meetings, Fabrication of Physical Networks: Counting Graphs in
+Three-Dimensional Space, Boston, MA, 2023</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Joint Mathematics Meetings, Effects of Backtracking on PageRank, Boston, MA, 2023</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Zámeček DYNASNET Workshop, The Fabrics of Physical Networks, Lednice, Czech Republic, 2022</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Graduate Student Combinatorics Conference, Non-Backtracking Spectrum of Graphs, Minneapolis, Minnesota, 2021</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Brigham Young University Spring Research Conference, Non-Backtracking Spectrum of
+Graphs, Salt Lake City, UT, 2021</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>AMS Fall Western Sectional Meeting, Understanding the non-backtracking spectrum of
+graphs, Salt Lake City, UT, 2020</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Brigham Young University Spring Research Conference, Spectral Properties of
+Non-Backtracking Random Walks, Provo, UT, 2020</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Brigham Young University Spring Research Conference, A Reidemeister Type Theorem
+On Petal Projections of Knots, Provo, UT, 2019</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Joint Mathematics Meetings, A Reidemeister Type Theorem On Petal Projections of
+Knots, Baltimore, MD, 2019</i>
+    </li>
 </ul>
 </div>
 
@@ -56,7 +97,34 @@ Reconstructed from Time Series Data, Atlanta, GA, October 2024</i>
 <h2> Teaching Experience </h2>
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
     <li style="margin-bottom: 10px; vertical-align: middle;">
-      <i>APS Annual Meeting, Measuring Entanglement in Physical Networks, Anaheim, CA, March 2025</i>
+      <i>Teaching Assistant, Computational Linear Algebra, 2021</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Teaching Assistant, Modeling with Uncertainty and Data, 2019-2021</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Instructor, Finite Mathematics, 2020</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Teaching Assistant, Algorithm Design and Optimization Lab, 2018-2019</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Class Developer, Modeling with Uncertainty and Data Lab, 2018-2019</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Class Developer, Algorithm Design and Optimization Lab, 2018-2019</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Class Developer, Mathematical Analysis Lab, 2018-2019</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Linear Algebra Tutor, 2017-2018</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Multivariate Calculus Tutor, 2017-2018</i>
+    </li>
+    <li style="margin-bottom: 10px; vertical-align: middle;">
+      <i>Real Analysis Tutor, 2017-2018</i>
     </li>
 </ul>
 </div>
