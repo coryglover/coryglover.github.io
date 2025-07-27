@@ -5,7 +5,7 @@ permalink: /publications/
 show_picture: false
 ---
 
-<div style="background-color:rgb(174, 225, 252); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #aee1fc; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 <h2> Publications </h2>
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
     <li style="margin-bottom: 10px; vertical-align: middle;">
