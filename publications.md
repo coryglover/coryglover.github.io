@@ -29,7 +29,7 @@ show_picture: false
 </p>
 </div>
 
-<div style="background-color: #aee1fc; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);margin-top: 20px;">
+<div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);margin-top: 20px;">
 <h2> Presentations </h2>
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
     <li style="margin-bottom: 10px; vertical-align: middle;">
@@ -96,7 +96,7 @@ Knots, Baltimore, MD, 2019</i>
 </ul>
 </div>
 
-<div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);margin-top: 20px;">
+<div style="background-color: #aee1fc; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);margin-top: 20px;">
 <h2> Teaching Experience </h2>
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
     <li style="margin-bottom: 10px; vertical-align: middle;">
