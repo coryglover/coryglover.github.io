@@ -61,7 +61,7 @@
   <!-- Right Block: Text Content -->
   <div style="flex: 2; padding: 20px; border-radius: 10px;">
     <h3>
-      <i>January 2026</i> - Dissertation Proposal Accepted
+      <i>January 2026</i> - JMM 2026
     </h3>
     <p>
      I presented our recently published work, <i>Measuring Entanglement in Physical Networks</i>, as well as our upcoming work,, <i>Network Design</i>, at the 2026 Joint Mathematics Meeting in Washington, D.C.. The first presentation was included in a BSM Special Session on Mathematical Research in Budapest and the second was included in an AMS contributed papers session.
