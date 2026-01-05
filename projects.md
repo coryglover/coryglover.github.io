@@ -78,10 +78,10 @@ show_picture: false
  <div style="padding: 20px;">
     <div style="display: flex; align-items: center; gap: 20px;">
      <!-- Image -->
-      <img src="/assets/images/projects/nonbacktracking_pr.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
+      <img src="/assets/images/projects/nonbacktracking_pr.jpeg" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
       <!-- Text -->
       <p style="margin: 0;">
-        PageRank is a common algorithm used to rank vertex importance in a graph. We customize PageRank by toggling the amount of backtracking occurring in its underlying random walk. By letting the probability of backtracking go to 1, we introduce $\infty$-PageRank which can be calculated without approximation. Using $\infty$-PageRank, we develop a new community detection algorithm.
+        PageRank is a common algorithm used to rank vertex importance in a graph. We customize PageRank by toggling the amount of backtracking occurring in its underlying random walk. By letting the probability of backtracking go to 1, we introduce \infty-PageRank which can be calculated without approximation. Using \infty-PageRank, we develop a new community detection algorithm.
       </p>
     </div>
   </div>
