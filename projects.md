@@ -71,6 +71,25 @@ show_picture: false
 <div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
   <!-- Dropdown Header -->
   <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
+     <h3 style="margin: 0; text-align: left;">Non-backtracking PageRank</h3>
+  </div>
+
+  <!-- Dropdown Content -->
+ <div style="padding: 20px;">
+    <div style="display: flex; align-items: center; gap: 20px;">
+     <!-- Image -->
+      <img src="/assets/images/projects/nonbacktracking_pr.png" alt="Icon" style="width: 150px; height: 150px; border-radius: 5px;">
+      <!-- Text -->
+      <p style="margin: 0;">
+        PageRank is a common algorithm used to rank vertex importance in a graph. We customize PageRank by toggling the amount of backtracking occurring in its underlying random walk. By letting the probability of backtracking go to 1, we introduce $\infty$-PageRank which can be calculated without approximation. Using $\infty$-PageRank, we develop a new community detection algorithm.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div style="background-color: #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+  <!-- Dropdown Header -->
+  <div style="padding: 20px; background-color: #d9d9d9; border-radius: 10px; display: flex; align-items: center;">
      <h3 style="margin: 0; text-align: left;">Brain Stimulation Targets for Depression</h3>
   </div>
 
@@ -105,9 +124,6 @@ show_picture: false
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
     <li style="margin-bottom: 10px; vertical-align: middle;">
       Spectral Properties of Non-Backtracking Random Walks
-    </li>
-    <li style="margin-bottom: 10px; vertical-align: middle;">
-      Community Detection Using Non-Backtracking PageRank
     </li>
     <li style="margin-bottom: 10px; vertical-align: middle;">
       Petal Diagrams of Knots
