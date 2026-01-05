@@ -55,6 +55,25 @@
 
   <!-- Left Block: Picture and Icons -->
   <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
+    <img src="/assets/images/news/jmm_2026.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
+</div>
+
+  <!-- Right Block: Text Content -->
+  <div style="flex: 2; padding: 20px; border-radius: 10px;">
+    <h3>
+      <i>January 2026</i> - Dissertation Proposal Accepted
+    </h3>
+    <p>
+     I presented our recently published work, <i>Measuring Entanglement in Physical Networks</i>, as well as our upcoming work,, <i>Network Design</i>, at the 2026 Joint Mathematics Meeting in Washington, D.C.. The first presentation was included in a BSM Special Session on Mathematical Research in Budapest and the second was included in an AMS contributed papers session.
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start;  background-color: #aee1fc;box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Left Block: Picture and Icons -->
+  <div style="flex: 1; max-width: 350px; display: flex; justify-content: center; align-items: center; padding: 20px;">
     <img src="/assets/images/news/dissertation_proposal.png" alt="Your Image" style="max-width: 100%; max-height: 100%; border-radius: 10px;">
 </div>
 
